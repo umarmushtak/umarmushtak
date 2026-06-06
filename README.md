@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Studying BSCS at National Textile University (NTU), Faisalabad — CGPA: 3.4 / 4.0<br>💼 Working as a Web Developer & LLM Training Specialist at InfinitySolTech<br>🛒 Built and deployed a full-stack e-commerce store with Stripe payments & JWT auth<br>🍽️ Delivered a Restaurant POS System as a real freelance client project<br>🤖 Contributing to AI model improvement through annotation, evaluation & output refinement<br>🌱 Currently deepening my skills in Next.js, system design, and scalable backend architecture<br>💬 Ask me about React, Node.js, MongoDB, REST APIs, or anything full-stack<br>📫 Reach me at: workingbee1077@gmail.com<br>🔗 Freelance profile: fiverr.com/s/yv3A1Gz
+🎓 Studying BSCS at National Textile University (NTU), Faisalabad <br>💼 Working as a Web Developer & LLM Training Specialist at InfinitySolTech<br>🛒 Built and deployed a full-stack e-commerce store with Stripe payments & JWT auth<br>🍽️ Delivered a Restaurant POS System as a real freelance client project<br>🤖 Contributing to AI model improvement through annotation, evaluation & output refinement<br>🌱 Currently deepening my skills in Next.js, system design, and scalable backend architecture<br>💬 Ask me about React, Node.js, MongoDB, REST APIs, or anything full-stack<br>📫 Reach me at: umarmushtaqkahloon@gmail.com<br>
 
 
 ## 🌐 Socials:
