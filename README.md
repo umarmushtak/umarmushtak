@@ -14,15 +14,15 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="[(https://www.linkedin.com/in/muhammad-umar-mushtaq-a49a52319/)]">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:workingbee1077@gmail.com">
+<a href="mailto:umarmushtaqkahloon@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="(https://muhammadumarporfolio.netlify.app/)">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
